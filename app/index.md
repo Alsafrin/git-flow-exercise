@@ -8,4 +8,4 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
-[Cuba Pudding](recipe/feb/cuba-pudding-jr.md)
+[Cuba Pudding](recipe/feb/cuba-pudding-jr-feb.md)
