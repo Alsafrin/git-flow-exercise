@@ -8,9 +8,14 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
+February [Cuba Pudding](recipe/feb/cuba-pudding-jr-feb.md)
+
+
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
+
+[EggsBenny](../recipe/feb/Egg-benny.md)
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
