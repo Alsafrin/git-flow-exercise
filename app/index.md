@@ -15,7 +15,7 @@ February [Cuba Pudding](recipe/feb/cuba-pudding-jr-feb.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
-[EggsBenny](../recipe/feb/Egg-benny.md)
+[EggsBenny](recipe/feb/Egg-benny.md)
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
